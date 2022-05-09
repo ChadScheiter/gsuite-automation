@@ -7,9 +7,9 @@ const CONFIG_SPREADSHEET_ID = ''
 // Orginization ID of the unit for which to download data
 const ORGID = '223';
 //Wing
-const WING = 'MI';
+const WING = 'WA';
 //Email Domain
-const EMAIL_DOMAIN = '@miwg.cap.gov';
-const DOMAIN = 'miwg.cap.gov';
+const EMAIL_DOMAIN = '@wawg.cap.gov';
+const DOMAIN = 'wawg.cap.gov';
 //Suspension grace period
 const SUSPENSION_GRACE_DAYS = 7;
